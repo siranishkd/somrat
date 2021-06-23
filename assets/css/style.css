@@ -887,9 +887,10 @@ input:checked+label span:last-child {
   color: #4d4d4d;
 }
 
-.about-me-images img {
-  width: 100%;
-  -webkit-filter: grayscale(100%);
+/* .about-me-images img {
+  width: 200%;
+} */
+  /* -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
@@ -908,7 +909,7 @@ input:checked+label span:last-child {
   -ms-filter: grayscale(0%);
   -o-filter: grayscale(0%);
   filter: grayscale(0%);
-}
+} */
 
 .about-me .hvr-icon-hang:before {
   content: "\f0ab";
@@ -918,7 +919,7 @@ input:checked+label span:last-child {
   font-weight: 900;
   top: 6px;
   font-size: 16px;
-}
+} 
 
 /* ========= Start Experience ======= */
 
