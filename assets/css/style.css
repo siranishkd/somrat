@@ -887,9 +887,9 @@ input:checked+label span:last-child {
   color: #4d4d4d;
 }
 
-/* .about-me-images img {
-  width: 200%;
-} */
+.about-me-images img {
+  width: 100%;
+}
   /* -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
